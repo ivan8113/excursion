@@ -1,34 +1,30 @@
 html{
-font-family: verdana;
+font-family: Verdana;
 background-color: black;
+text-align: center;
 }
 .heading{
 color: white;
-font-size: 50px;
-text align: center;
+font-size: 50px;76
 }
 .download{
-color: aquamarine;
+color: Aquamarine;
 font-size: 16px;
-text align: center;
 }
 .travel{
 font-weight: 300;
 font-size: 42px;
-text align: center;
 }
 .places{
 font-size: 21px;
 color: gray;
-text align: center;
 }
 .soon {
 color:white;
  font-weight: 300;
 font-size: 42px;
-text align: center;
 }
-.copyright{
+.copyrigh {
 text-align: right;
 color: gray;
 }

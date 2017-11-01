@@ -1,4 +1,4 @@
-html{
+body{
 font-family: Verdana;
 background-color: black;
 text-align: center;
@@ -6,6 +6,7 @@ text-align: center;
 .heading{
 color: white;
 font-size: 50px;
+font-weight: normal;
 }
 p{
 color: Aquamarine;

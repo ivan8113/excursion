@@ -8,9 +8,9 @@ color: white;
 font-size: 50px;
 font-weight: normal;
 }
-p{
+a{
 color: Aquamarine;
-font-size: 16px;
+font-size: 16px; 
 }
 .travel{
 color: white;
@@ -31,5 +31,5 @@ text-align: right;
 color: gray;
 }
 p{
-align-items: center; 
+align-items: center;
 }
